@@ -8,7 +8,7 @@ Run  on command line: npm start
 ```
 
 ### Installing
-Clone this repo to your local machine using https://github.com/BFronz/BFronz-googlebooks.git
+Clone this repo to your local machine using https://github.com/BFronz/Google-Books-Search.git
  
 ```
 npm install package.json
@@ -29,7 +29,7 @@ npm install package.json
  - Search any book title on google
  - Save books MongoDB
  - Remove save book
- - Deployed on Heriku:  <a href="https://github.com/BFronz/Google-Books-Search.git">https://github.com/BFronz/Google-Books-Search.git</a>
+ - Deployed on Heriku:  <a href="https://serene-wildwood-13353.herokuapp.com/search">https://serene-wildwood-13353.herokuapp.com/search</a>
 
 
  
